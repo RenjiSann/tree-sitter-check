@@ -1,2 +1,2 @@
 # tree-sitter-check
-Build a tree-sitter grammar and run the corpus tests
+A GitHub action that builds a tree-sitter parser and run the corpus tests on it.
