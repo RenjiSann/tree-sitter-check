@@ -1,0 +1,12 @@
+name: "tree-sitter-check"
+description: |
+             An action that builds a tree-sitter parser and
+             run the corpus of tests.
+inputs:
+outputs:
+runs:
+  using: "docker"
+  image: "Dockerfile"
+branding:
+  icon: award
+  color: green
