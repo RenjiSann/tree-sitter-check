@@ -1,7 +1,7 @@
 #! /bin/sh
-
+
 WS=${GITHUB_WORKSPACE}
-cd {$WS}
+cd $WS
 
 # Print version
 tree-sitter -V
